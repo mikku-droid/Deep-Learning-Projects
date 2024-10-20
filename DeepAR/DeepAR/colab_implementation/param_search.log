@@ -1,0 +1,5 @@
+[11:49:34] DeepAR.Searcher: Running on GPU: [0]
+[11:50:51] DeepAR.Searcher: Running on GPU: [0]
+[11:50:51] DeepAR.Searcher: Worker 1 running 1 using GPU 0
+[11:50:51] DeepAR.Searcher: Params saved to: experiments/param_search/lstm_dropout_0.00-lstm_hidden_dim_5.00/params.json
+[11:50:51] DeepAR.Searcher: /usr/bin/python3 train.py --model-name=param_search/lstm_dropout_0.00-lstm_hidden_dim_5.00 --dataset=elect --data-folder=data --save-best 
